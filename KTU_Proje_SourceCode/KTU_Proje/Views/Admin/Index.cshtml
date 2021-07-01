@@ -1,0 +1,64 @@
+﻿@using KTU_Proje.Models
+@model List<TBL_STUDENT>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/SideBar.cshtml";
+}
+
+<h2>ÖĞRENCİLER</h2>
+<br />
+<table class="table table-bordered">
+    <tr>
+        <th>
+            ID
+        </th>
+        <th>
+            ÖĞRENCİ ADI
+        </th>
+        <th>
+            ÖĞRENCİ SOYADI
+        </th>
+        <th>
+            MAIL
+        </th>
+        <th>
+            SIFRE
+        </th>
+        <th>
+            TELEFON
+        </th>
+        <th>OKUL</th>
+        <th>ÖĞRENCİ BELGESİ</th>
+    </tr>
+    @foreach (var ktg in Model)
+    {
+
+
+        <tr>
+            <td>
+                @ktg.ID
+            </td>
+            <td>
+                @ktg.AD
+            </td>
+            <td>
+                @ktg.SOYAD
+            </td>
+            <td>
+                @ktg.MAIL
+            </td>
+            <td>
+                @ktg.SIFRE
+            </td>
+            <td>
+                @ktg.TELEFON
+            </td>
+            <td>
+                @ktg.OKUL
+            </td>
+            <td>
+                <a href="@ktg.OGRENCIBELGESI" class="btn btn-primary">Öğrenci Belgesine erişmek için tılayın</a>
+            </td>
+        </tr>
+    }
+</table>
