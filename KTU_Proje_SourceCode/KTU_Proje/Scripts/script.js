@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Problem Çözücü", "Fikir Üretici", "Hedefleri Peşinde", "Girişim"],
+        strings: ["Problem Çözücü", "Fikir Üretici", "Hedefleri Peşinde", "Potansiyel Marka Gücü"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Problem Çözücü", "Fikir Üretici", "Hedefleri Peşinde", "Girişim"],
+        strings: ["Problem Çözücü", "Fikir Üretici", "Hedefleri Peşinde", "Potansiyel Marka Gücü"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true

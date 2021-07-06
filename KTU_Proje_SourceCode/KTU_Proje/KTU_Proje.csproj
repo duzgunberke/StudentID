@@ -2012,6 +2012,10 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="webregister\images\1-wall1.jpg" />
+    <Content Include="images\1673318.jpg" />
+    <Content Include="images\1682052.jpg" />
+    <Content Include="images\WhatsApp Image 2021-07-01 at 13.12.55.jpeg" />
     <Content Include="Models\Model1.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>Model1.Context.cs</LastGenOutput>
@@ -2035,7 +2039,9 @@
     <Content Include="webregister\css\font-awesome.css" />
     <Content Include="webregister\css\style.css" />
     <Content Include="webregister\fonts\fontawesome-webfont.svg" />
+    <Content Include="webregister\images\977182.jpg" />
     <Content Include="webregister\images\bg.jpg" />
+    <Content Include="webregister\images\Uly1Pk.jpg" />
     <Content Include="webregister\index.html" />
     <EntityDeploy Include="Models\Model1.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
@@ -2316,7 +2322,7 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
-    <Content Include="images\316894.jpg" />
+    <Content Include="webregister\images\316894.jpg" />
     <Content Include="images\5c98e3c6-06b6-4d07-8112-e340677ad0ea.jpg" />
     <Content Include="images\5ce4945d-7db9-41d7-8ae5-14d47bfade66.jpg" />
     <Content Include="images\me.jpg" />

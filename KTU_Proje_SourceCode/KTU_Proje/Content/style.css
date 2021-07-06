@@ -80,7 +80,7 @@ section .title {
         bottom: -8px;
         left: 50%;
         font-size: 20px;
-        color: #4361ee;
+        color: #1a1d54;
         padding: 0 5px;
         background: #fff;
         transform: translateX(-50%);
@@ -98,7 +98,7 @@ section .title {
 
     .navbar.sticky {
         padding: 15px 0;
-        background: #4361ee;
+        background: #1a1d54;
     }
 
     .navbar .max-width {
@@ -114,7 +114,7 @@ section .title {
     }
 
         .navbar .logo a span {
-            color: #4361ee;
+            color: #1a1d54;
             transition: all 0.3s ease;
         }
 
@@ -137,7 +137,7 @@ section .title {
         }
 
             .navbar .menu li a:hover {
-                color: #4361ee;
+                color: #1a1d54;
             }
 
     .navbar.sticky .menu li a:hover {
@@ -238,7 +238,7 @@ section .title {
     }
 
         .home .home-content a:hover {
-            color: #4361ee;
+            color: #1a1d54;
             background: none;
         }
 
@@ -269,7 +269,7 @@ section .title {
     }
 
         .about .about-content .right .text span {
-            color: #4361ee;
+            color: #1a1d54;
         }
 
     .about .about-content .right p {
@@ -278,7 +278,7 @@ section .title {
 
     .about .about-content .right a {
         display: inline-block;
-        background: #4361ee;
+        background: #1a1d54;
         color: #fff;
         font-size: 20px;
         font-weight: 500;
@@ -290,7 +290,7 @@ section .title {
     }
 
         .about .about-content .right a:hover {
-            color: #4361ee;
+            color: #1a1d54;
             background: none;
         }
 
@@ -323,7 +323,7 @@ section .title {
     }
 
         .services .serv-content .card:hover {
-            background: #4361ee;
+            background: #1a1d54;
         }
 
         .services .serv-content .card .box {
@@ -384,7 +384,7 @@ section .title {
 }
 
     .skills .skills-content .left a:hover {
-        color: #4361ee;
+        color: #1a1d54;
         background: none;
     }
 
@@ -550,7 +550,7 @@ section .title {
 
     .contact .contact-content .row i {
         font-size: 25px;
-        color: #4361ee;
+        color: #1a1d54;
     }
 
 .contact .contact-content .info .head {
@@ -626,7 +626,7 @@ section .title {
 }
 
     .right form .button-area button:hover {
-        color: #4361ee;
+        color: #1a1d54;
         background: none;
     }
 /* footer section styling */
@@ -638,7 +638,7 @@ footer {
 }
 
     footer span a {
-        color: #4361ee;
+        color: #1a1d54;
         text-decoration: none;
     }
 
